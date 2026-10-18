@@ -174,7 +174,7 @@ This repository is a research/portfolio project and is **not intended for clinic
 
 ## Kaggle notebook
 
-Add the public Kaggle notebook URL here after publishing the final notebook.
+View the Kaggle notebook [https://www.kaggle.com/code/ahmadraza9112/explainable-retinal-oct-classification-f]
 
 ## License
 
