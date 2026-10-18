@@ -1,0 +1,5 @@
+experiment,description,parameters,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1
+E01,Custom CNN + direct resize,389828,0.949,0.9045,0.9247,0.9045,0.9141
+E02,Custom CNN + weighted CE,389828,0.9244,0.9151,0.8767,0.9151,0.8891
+E03,Custom CNN + aspect-preserving preprocessing,389828,0.9528,0.9195,0.9359,0.9195,0.9268
+E04,Pretrained ResNet18,11178564,0.9568,0.9386,0.9321,0.9386,0.9351

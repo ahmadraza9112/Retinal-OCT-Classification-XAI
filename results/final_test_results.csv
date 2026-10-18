@@ -1,0 +1,3 @@
+model,parameters,approx_fp32_size_mb,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1
+E03 Custom CNN,389828,1.4871,0.751,0.751,0.8681,0.751,0.749
+E04 ResNet18,11178564,42.6428,0.912,0.912,0.9315,0.912,0.9098
